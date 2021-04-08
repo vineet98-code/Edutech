@@ -1,2 +1,2 @@
 # Edutech
-Curated for everyone
+Education for everyone
